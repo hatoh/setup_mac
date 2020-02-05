@@ -1,0 +1,17 @@
+---
+brew_cask_packages:
+  - name: alfred
+  - name: caffeine
+  - name: clipy
+  - name: coteditor
+  - name: dash
+  - name: diffmerge
+  - name: docker
+  - name: iterm2
+  - name: flux
+  - name: google-chrome
+  - name: skitch
+  - name: slack
+  - name: vagrant
+  - name: virtualbox
+  - name: visual-studio-code
