@@ -1,17 +1,23 @@
 ---
 brew_cask_packages:
+  - name: adoptopenjdk8
   - name: alfred
+  - name: boostnote
+  - name: brackets
   - name: caffeine
   - name: clipy
+  - name: clocksaver
   - name: coteditor
   - name: dash
   - name: diffmerge
   - name: docker
+  - name: drawio
+#  - name: flux
+  - name: google-cloud-sdk
   - name: iterm2
-  - name: flux
-  - name: google-chrome
   - name: skitch
   - name: slack
   - name: vagrant
-  - name: virtualbox
   - name: visual-studio-code
+  - name: xmind
+  
